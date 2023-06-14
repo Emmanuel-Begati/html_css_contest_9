@@ -43,7 +43,7 @@ concierge-nigeria-website/
 
 ## Contributing
 
-Contributions to the Concierge Nigeria website project are welcome! If you find any issues or want to suggest improvements, please feel free to open an issue or submit a pull request.
+Contributions to the Concierge Nigeria website project are welcome! If you find any issues or want to suggest improvements, please feel free to open an issue or submit a pull request!
 
 ## License
 
