@@ -35,6 +35,7 @@ To run the Concierge Nigeria website locally on your machine, follow these steps
 The folder structure of the project is organized as follows:
 
 concierge-nigeria-website/
+we are located inlagos 
 ├── images/ # Directory for storing images used in the website
 ├── styles/ # Directory for CSS files
 │ └── style.css # Main CSS file for the website
@@ -48,3 +49,4 @@ Contributions to the Concierge Nigeria website project are welcome! If you find 
 ## License
 
 The Concierge Nigeria website project is licensed under the MIT License. Feel free to modify and use the code for personal and commercial purposes.
+
