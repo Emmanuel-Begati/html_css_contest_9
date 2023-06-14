@@ -1,10 +1,43 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
+
 <head>
-    <title>About Us</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Us - Concierge Website</title>
     <link rel="stylesheet" href="styles.css">
+    <style>
+        .team-members {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+        }
+
+        .member {
+            width: 45%; /* Adjust the width as needed */
+            margin-bottom: 20px;
+            text-align: center;
+        }
+
+        .member img {
+            max-width: 100%;
+            height: auto;
+        }
+    </style>
 </head>
+
 <body>
+    <header class="header">
+        <h1 class="logo">Concierge</h1>
+        <nav class="menu">
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
     <section id="about">
         <div class="container">
             <h2>About Us</h2>
@@ -13,6 +46,51 @@
             <p>Our comprehensive range of services includes flight bookings, hotel reservations, car rentals, event ticketing, restaurant reservations, and exciting tour packages for local attractions. We handle all the details, ensuring seamless logistics and exceptional accommodations, so you can focus on creating lasting memories.</p>
             <p>Trust us to redefine your travel experience and deliver exceptional service every step of the way.</p>
         </div>
+
+        <section id="team">
+            <div class="container">
+                <h2>Meet the Team</h2>
+                <div class="team-members">
+                    <div class="member">
+                        <img src="Members/oche.jpg" alt="Member 1">
+                        <h3>Oche Ankeli</h3>
+                        <p>Travel Specialist</p>
+                    </div>
+                    <div class="member">
+                        <img src="Members/mariam.jpg" alt="Member 2">
+                        <h3>Teniola Azeez</h3>
+                        <p>Event Coordinator</p>
+                    </div>
+                    <div class="member">
+                        <img src="Members/emmanuel.jpg" alt="Member 3">
+                        <h3>Emmanuel Begatti</h3>
+                        <p>Customer Relations Manager</p>
+                    </div>
+                    <div class="member">
+                        <img src="Members/pius.jpg" alt="Member 4">
+                        <h3>Piuz Ezekiel</h3>
+                        <p>Marketing Specialist</p>
+                    </div>
+                    <div class="member">
+                        <img src="Members/ajok.jpg" alt="Member 5">
+                        <h3>Ajok Kuech</h3>
+                        <p>Operations Manager</p>
+                    </div>
+                    <div class="member">
+                        <img src="Members/malong.jpg" alt="Member 6">
+                        <h3>Maker Malong</h3>
+                        <p>Concierge Services Coordinator</p>
+                    </div>
+                </div>
+            </div>
+        </section>
     </section>
+
+    <footer class="footer">
+        <div class="container">
+            <p>&copy; 2023 Concierge. All rights reserved.</p>
+        </div>
+    </footer>
 </body>
+
 </html>
