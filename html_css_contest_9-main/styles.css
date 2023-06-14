@@ -907,6 +907,7 @@ body {
     color: #fff;
     -webkit-transition: 0.8s;
     transition: 0.8s;
+    text-decoration: none;
   }
   
   .footer__link:hover, .footer__link:focus {
