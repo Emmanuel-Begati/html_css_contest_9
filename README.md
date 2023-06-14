@@ -8,8 +8,9 @@ This project is a static website for Concierge Nigeria, a fictional concierge se
 ## Features
 
 - Header: The header section includes the Concierge Nigeria logo and a navigation menu that allows users to navigate through the website's different sections.
-- Hero Section: The hero section features a captivating image related to the concierge services provided by the company. It includes a title and description that highlight the key benefits and features of the services.
+- Home Section: The home section features a captivating image related to the concierge services provided by the company. It includes a title and description that highlight the key benefits and features of the services.
 - Services Section: The services section provides an overview of the services offered by Concierge Nigeria. Each service is displayed with an image, title, and description. Users can learn more about each service by clicking on the respective service.
+- About Section: This is where the team members' pictures are placed with their names and official positions.
 - Contact Section: The contact section allows users to contact Concierge Nigeria by providing their name, email, and message through a contact form.
 - Responsive Design: The website is designed to be responsive and adapt to different screen sizes, ensuring a consistent and optimal user experience across devices.
 
